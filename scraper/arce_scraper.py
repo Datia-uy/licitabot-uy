@@ -190,10 +190,20 @@ def parse_fecha(val):
     return val
 
 def dias_para_cierre(fecha_iso):
+    """
+    Dias completos que faltan desde HOY hasta la fecha de cierre.
+    Usa ceil: si faltan 30 horas muestra 2 dias (no 1).
+    Retorna 0 si ya cerro, None si no hay fecha.
+    """
     if not fecha_iso:
         return None
     try:
-        return max((datetime.fromisoformat(fecha_iso) - datetime.now()).days, 0)
+        import math
+        cierre = datetime.fromisoformat(fecha_iso)
+        delta = (cierre - datetime.now()).total_seconds()
+        if delta <= 0:
+            return 0
+        return math.ceil(delta / 86400)
     except (ValueError, TypeError):
         return None
 
@@ -260,8 +270,10 @@ def parse_xml_compras(xml_bytes, incisos: dict, ues: dict, tipos: dict) -> list[
 
         # Fechas
         fecha_pub_iso = parse_fecha(f_pub)
-        # Usar fecha_hora_tope_entrega como cierre, o fecha_hora_apertura como fallback
-        fecha_cierre_iso = parse_fecha(f_tope) or parse_fecha(f_apertura)
+        # fecha_hora_apertura ES la fecha de cierre/apertura de ofertas
+        # fecha_hora_tope_entrega es tope de entrega fisica (secundario)
+        # Prioridad: apertura > tope_entrega
+        fecha_cierre_iso = parse_fecha(f_apertura) or parse_fecha(f_tope)
         dias = dias_para_cierre(fecha_cierre_iso)
 
         # Monto (en compras vigentes suele no estar, viene en adjudicaciones)
