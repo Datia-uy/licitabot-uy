@@ -1,6 +1,6 @@
 {
   "meta": {
-    "actualizado": "2026-08-22T09:17:13.577272",
+    "actualizado": "2026-08-23T09:17:53.181231",
     "fuente": "comprasestatales.gub.uy",
     "licencia": "Datos Abiertos — Licencia DAG Uruguay",
     "version": "3.1",
@@ -8,8 +8,8 @@
   },
   "stats": {
     "total": 500,
-    "nuevas24": 147,
-    "urgentes": 102,
+    "nuevas24": 25,
+    "urgentes": 95,
     "montoUYU": 0,
     "montoM": 0.0
   },
@@ -31,7 +31,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T12:50:00",
       "fechaCierre": "2026-08-24T10:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364074.pdf",
       "nueva": false
@@ -53,7 +53,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-23T09:00:00",
       "fechaCierre": "2026-08-24T10:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357876.pdf",
       "nueva": false
@@ -75,7 +75,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:00:00",
       "fechaCierre": "2026-08-24T11:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363782.pdf",
       "nueva": false
@@ -97,7 +97,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:55:00",
       "fechaCierre": "2026-08-24T17:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363861.pdf",
       "nueva": false
@@ -119,7 +119,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T19:30:00",
       "fechaCierre": "2026-08-24T13:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498010.html",
       "nueva": false
@@ -141,7 +141,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T11:55:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365169.pdf",
       "nueva": false
@@ -163,7 +163,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T08:50:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365055.pdf",
       "nueva": false
@@ -185,7 +185,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T09:15:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365068.pdf",
       "nueva": false
@@ -207,7 +207,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T09:25:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365073.pdf",
       "nueva": false
@@ -229,7 +229,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T09:55:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365087.pdf",
       "nueva": false
@@ -251,7 +251,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:50:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365131.pdf",
       "nueva": false
@@ -273,7 +273,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:00:00",
       "fechaCierre": "2026-08-24T15:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365297.pdf",
       "nueva": false
@@ -295,7 +295,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T16:00:00",
       "fechaCierre": "2026-08-24T16:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362755.odt",
       "nueva": false
@@ -317,7 +317,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T14:55:00",
       "fechaCierre": "2026-08-24T11:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363464.PDF",
       "nueva": false
@@ -339,7 +339,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T14:50:00",
       "fechaCierre": "2026-08-24T13:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1353587.pdf",
       "nueva": false
@@ -361,7 +361,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T11:05:00",
       "fechaCierre": "2026-08-24T10:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355915.pdf",
       "nueva": false
@@ -383,7 +383,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T11:50:00",
       "fechaCierre": "2026-08-24T10:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355895.pdf",
       "nueva": false
@@ -405,7 +405,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T15:45:00",
       "fechaCierre": "2026-08-24T10:30:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361684.7z",
       "nueva": false
@@ -427,7 +427,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T16:15:00",
       "fechaCierre": "2026-08-24T11:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364543.pdf",
       "nueva": false
@@ -449,7 +449,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-12T18:15:00",
       "fechaCierre": "2026-08-24T14:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1348353.pdf",
       "nueva": false
@@ -471,31 +471,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T11:00:00",
       "fechaCierre": "2026-08-24T10:00:00",
-      "dias": 3,
+      "dias": 2,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363497.zip",
-      "nueva": false
-    },
-    {
-      "id": "1363344",
-      "idCompra": "1363344",
-      "nro": "5000",
-      "anio": "2026",
-      "tipo": "CP",
-      "tipoNombre": "PFI - Comparación de precios",
-      "obj": "Contratación del servicio de proyecto e incorporación de medidas intermedias para la obtención de la segunda etapa del trámite de Habilitación de Bomberos, en el edificio del Sector Almacenes del Programa PAEMFE.",
-      "org": "Consejo Directivo Central",
-      "orgId": "25",
-      "ueId": "1",
-      "contacto": "UNIDAD DE ADQUISICIONES",
-      "email": "adquisiciones@paemfe.edu.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T12:20:00",
-      "fechaCierre": "2026-08-24T12:00:00",
-      "dias": 3,
-      "rubro": "Construccion e infraestructura",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363344.pdf",
       "nueva": false
     },
     {
@@ -515,7 +493,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-04-24T13:50:00",
       "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1335487.PDF",
       "nueva": false
@@ -537,7 +515,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-20T10:15:00",
       "fechaCierre": "2026-08-26T11:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357194.PDF",
       "nueva": false
@@ -559,7 +537,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T10:20:00",
       "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361443.pdf",
       "nueva": false
@@ -581,10 +559,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T09:35:00",
       "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1340908.rar",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i498372",
@@ -603,10 +581,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-04T21:30:00",
       "fechaCierre": "2026-08-26T14:15:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498372.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1345172",
@@ -625,7 +603,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-24T12:55:00",
       "fechaCierre": "2026-08-26T12:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1345172.pdf",
       "nueva": false
@@ -647,7 +625,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-04T15:00:00",
       "fechaCierre": "2026-08-26T12:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358005.pdf",
       "nueva": false
@@ -669,7 +647,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T11:50:00",
       "fechaCierre": "2026-08-26T15:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364786.zip",
       "nueva": false
@@ -691,7 +669,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T15:05:00",
       "fechaCierre": "2026-08-26T11:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362346.7z",
       "nueva": false
@@ -713,7 +691,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T09:00:00",
       "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355732.pdf",
       "nueva": false
@@ -735,7 +713,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T09:35:00",
       "fechaCierre": "2026-08-26T10:30:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360029.7z",
       "nueva": false
@@ -757,7 +735,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T12:45:00",
       "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360023.pdf",
       "nueva": false
@@ -779,7 +757,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T13:25:00",
       "fechaCierre": "2026-08-26T12:00:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362494.pdf",
       "nueva": false
@@ -801,31 +779,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T14:50:00",
       "fechaCierre": "2026-08-26T14:10:00",
-      "dias": 5,
+      "dias": 4,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363797.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1362599",
-      "idCompra": "1362599",
-      "nro": "87",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "ADQUISICIÓN DE PLAQUETOFERESIS. COTIZAR UNICAMENTE EN LINEA DE ACUERDO AL PLIEGO ADJUNTO.",
-      "org": "Dirección Nacional de Sanidad Policial",
-      "orgId": "4",
-      "ueId": "30",
-      "contacto": "LETICIA VALERIA ROCHA YANQUE",
-      "email": "licitaciones@sanidadpolicial.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-10T12:50:00",
-      "fechaCierre": "2026-08-26T10:00:00",
-      "dias": 5,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362599.pdf",
       "nueva": false
     },
     {
@@ -845,10 +801,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:15:00",
       "fechaCierre": "2026-08-27T11:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365891.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364232",
@@ -867,10 +823,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T23:35:00",
       "fechaCierre": "2026-08-27T11:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364232.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1354192",
@@ -889,7 +845,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T12:55:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1354192.pdf",
       "nueva": false
@@ -911,7 +867,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-14T17:05:00",
       "fechaCierre": "2026-08-27T10:30:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1356048.zip",
       "nueva": false
@@ -933,7 +889,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T14:15:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1356681.pdf",
       "nueva": false
@@ -955,7 +911,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-24T00:00:00",
       "fechaCierre": "2026-08-27T14:15:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497504.html",
       "nueva": false
@@ -977,7 +933,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T13:15:00",
       "fechaCierre": "2026-08-27T17:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364886.zip",
       "nueva": false
@@ -999,7 +955,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:45:00",
       "fechaCierre": "2026-08-27T14:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365621.pdf",
       "nueva": false
@@ -1021,7 +977,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T14:40:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360624.rar",
       "nueva": false
@@ -1043,7 +999,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T13:20:00",
       "fechaCierre": "2026-08-27T11:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363066.pdf",
       "nueva": false
@@ -1065,7 +1021,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T12:45:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365171.pdf",
       "nueva": false
@@ -1087,7 +1043,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-17T17:05:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357095.rar",
       "nueva": false
@@ -1109,7 +1065,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T11:30:00",
       "fechaCierre": "2026-08-27T12:30:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1312048.zip",
       "nueva": false
@@ -1131,7 +1087,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-22T00:00:00",
       "fechaCierre": "2026-08-27T11:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497310.pdf",
       "nueva": false
@@ -1153,7 +1109,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T09:50:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358870.pdf",
       "nueva": false
@@ -1175,7 +1131,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-23T16:25:00",
       "fechaCierre": "2026-08-27T16:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357706.doc",
       "nueva": false
@@ -1197,7 +1153,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-11T16:10:00",
       "fechaCierre": "2026-08-27T14:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1347907.docx",
       "nueva": false
@@ -1219,7 +1175,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T13:50:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364892.pdf",
       "nueva": false
@@ -1241,7 +1197,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T15:20:00",
       "fechaCierre": "2026-08-27T14:30:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362735.pdf",
       "nueva": false
@@ -1263,7 +1219,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T10:45:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362180.7z",
       "nueva": false
@@ -1285,7 +1241,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T13:05:00",
       "fechaCierre": "2026-08-27T15:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359504.odt",
       "nueva": false
@@ -1307,7 +1263,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T10:55:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360095.rar",
       "nueva": false
@@ -1329,31 +1285,97 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-06T13:00:00",
       "fechaCierre": "2026-08-27T10:00:00",
-      "dias": 6,
+      "dias": 5,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358323.pdf",
       "nueva": false
     },
     {
-      "id": "1350903",
-      "idCompra": "1350903",
-      "nro": "8",
+      "id": "1366036",
+      "idCompra": "1366036",
+      "nro": "7563",
       "anio": "2026",
       "tipo": "CR",
       "tipoNombre": "Concurso de Precios",
-      "obj": "La Dirección Nacional de Cultura-Infraestructuras Culturales, Invita a proveedores del estado a cotizar en línea \"Servicio de atención de urgencias eléctricas, atención correctiva y mantenimiento trimestral de sistemas de bombas hidráulicas para las sedes de DNC en Montevideo\". Se adjunta pliego de Bases y Condiciones Particulares. Por consultas en base a esta solicitud, comunicarse con la Arq. Patricia Rabosto al mail: prabosto@mec.gub.uy con copia obligatoria a compras al mail: comprascultura@mec.gub.uy. LOS DÍAS Y HORARIOS DE VISITA SERÁN CARGADOS COMO ACLARACIÓN DE LLAMADO.",
-      "org": "Dirección Nacional de Cultura",
-      "orgId": "11",
-      "ueId": "3",
-      "contacto": "Departamento de Compras",
-      "email": "comprascultra@mec.gub.uy",
+      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Edificio Cordón y Anexos",
+      "org": "Administración de las Obras Sanitarias del Estado",
+      "orgId": "66",
+      "ueId": "1",
+      "contacto": "Servicios General",
+      "email": "no_tiene_mail@gmail.com",
       "monto": null,
       "moneda": "UYU",
-      "fechaPub": "2026-08-10T19:30:00",
-      "fechaCierre": "2026-08-27T17:00:00",
+      "fechaPub": "2026-08-21T15:05:00",
+      "fechaCierre": "2026-08-28T11:00:00",
       "dias": 6,
-      "rubro": "Tecnologia e IT",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350903.pdf",
+      "rubro": "Construccion e infraestructura",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366036.doc",
+      "nueva": false
+    },
+    {
+      "id": "1366037",
+      "idCompra": "1366037",
+      "nro": "7564",
+      "anio": "2026",
+      "tipo": "CR",
+      "tipoNombre": "Concurso de Precios",
+      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Metropolitana, Zona Centro, Tanques del Cerrito, Servicios Generales, Depósito del Cerrito, General Flores 3001 y General Flores 3005",
+      "org": "Administración de las Obras Sanitarias del Estado",
+      "orgId": "66",
+      "ueId": "1",
+      "contacto": "Servicios General",
+      "email": "no_tiene_mail@gmail.com",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-21T15:05:00",
+      "fechaCierre": "2026-08-28T10:45:00",
+      "dias": 6,
+      "rubro": "Limpieza y mantenimiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366037.doc",
+      "nueva": false
+    },
+    {
+      "id": "1366038",
+      "idCompra": "1366038",
+      "nro": "7565",
+      "anio": "2026",
+      "tipo": "CR",
+      "tipoNombre": "Concurso de Precios",
+      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Este, Líneas de Aducción, Gerencia de Suministros, Paso Molino, Cuchilla Pereira, Recalque Melilla",
+      "org": "Administración de las Obras Sanitarias del Estado",
+      "orgId": "66",
+      "ueId": "1",
+      "contacto": "Servicios General",
+      "email": "no_tiene_mail@gmail.com",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-21T15:05:00",
+      "fechaCierre": "2026-08-28T10:30:00",
+      "dias": 6,
+      "rubro": "Limpieza y mantenimiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366038.doc",
+      "nueva": false
+    },
+    {
+      "id": "1366039",
+      "idCompra": "1366039",
+      "nro": "7566",
+      "anio": "2026",
+      "tipo": "CR",
+      "tipoNombre": "Concurso de Precios",
+      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Oeste, Taller de Medidores, 8 de octubre, Cuarta Línea y Abayubá",
+      "org": "Administración de las Obras Sanitarias del Estado",
+      "orgId": "66",
+      "ueId": "1",
+      "contacto": "Servicios General",
+      "email": "no_tiene_mail@gmail.com",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-21T15:10:00",
+      "fechaCierre": "2026-08-28T10:00:00",
+      "dias": 6,
+      "rubro": "Limpieza y mantenimiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366039.doc",
       "nueva": false
     },
     {
@@ -1373,10 +1395,10 @@
       "moneda": "UYU",
       "fechaPub": "2025-12-23T08:55:00",
       "fechaCierre": "2026-08-28T12:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1305562.7z",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1350964",
@@ -1395,7 +1417,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T11:10:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350964.pdf",
       "nueva": false
@@ -1417,7 +1439,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T14:00:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362315.pdf",
       "nueva": false
@@ -1439,7 +1461,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T13:21:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498941.pdf",
       "nueva": false
@@ -1461,98 +1483,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T14:25:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360757.odt",
-      "nueva": true
-    },
-    {
-      "id": "1366036",
-      "idCompra": "1366036",
-      "nro": "7563",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Edificio Cordón y Anexos",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Servicios General",
-      "email": "no_tiene_mail@gmail.com",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-21T15:05:00",
-      "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
-      "rubro": "Construccion e infraestructura",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366036.doc",
-      "nueva": true
-    },
-    {
-      "id": "1366037",
-      "idCompra": "1366037",
-      "nro": "7564",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Metropolitana, Zona Centro, Tanques del Cerrito, Servicios Generales, Depósito del Cerrito, General Flores 3001 y General Flores 3005",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Servicios General",
-      "email": "no_tiene_mail@gmail.com",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-21T15:05:00",
-      "fechaCierre": "2026-08-28T10:45:00",
-      "dias": 7,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366037.doc",
-      "nueva": true
-    },
-    {
-      "id": "1366038",
-      "idCompra": "1366038",
-      "nro": "7565",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Este, Líneas de Aducción, Gerencia de Suministros, Paso Molino, Cuchilla Pereira, Recalque Melilla",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Servicios General",
-      "email": "no_tiene_mail@gmail.com",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-21T15:05:00",
-      "fechaCierre": "2026-08-28T10:30:00",
-      "dias": 7,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366038.doc",
-      "nueva": true
-    },
-    {
-      "id": "1366039",
-      "idCompra": "1366039",
-      "nro": "7566",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "Servicio de mantenimiento integral de limpieza para locales de Montevideo, Zona Oeste, Taller de Medidores, 8 de octubre, Cuarta Línea y Abayubá",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Servicios General",
-      "email": "no_tiene_mail@gmail.com",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-21T15:10:00",
-      "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366039.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1355030",
@@ -1571,7 +1505,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T10:30:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355030.pdf",
       "nueva": false
@@ -1593,7 +1527,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T10:45:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360795.7z",
       "nueva": false
@@ -1615,7 +1549,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T11:15:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365545.7z",
       "nueva": false
@@ -1637,7 +1571,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T09:05:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362840.pdf",
       "nueva": false
@@ -1659,7 +1593,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T12:10:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1347312.pdf",
       "nueva": false
@@ -1681,7 +1615,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T08:50:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355763.pdf",
       "nueva": false
@@ -1703,7 +1637,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T11:15:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361607.pdf",
       "nueva": false
@@ -1725,7 +1659,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T14:45:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355296.pdf",
       "nueva": false
@@ -1747,7 +1681,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T12:55:00",
       "fechaCierre": "2026-08-28T14:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362276.pdf",
       "nueva": false
@@ -1769,7 +1703,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T14:50:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355301.pdf",
       "nueva": false
@@ -1791,7 +1725,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T00:00:00",
       "fechaCierre": "2026-08-28T15:30:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498109.html",
       "nueva": false
@@ -1813,7 +1747,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T08:35:00",
       "fechaCierre": "2026-08-28T10:30:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361382.7z",
       "nueva": false
@@ -1835,7 +1769,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T11:55:00",
       "fechaCierre": "2026-08-28T16:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359380.7z",
       "nueva": false
@@ -1857,7 +1791,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T19:05:00",
       "fechaCierre": "2026-08-28T15:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361711.7z",
       "nueva": false
@@ -1879,7 +1813,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-14T11:20:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1353885.pdf",
       "nueva": false
@@ -1901,7 +1835,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T14:25:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360264.rar",
       "nueva": false
@@ -1923,7 +1857,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-23T13:55:00",
       "fechaCierre": "2026-08-28T14:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358368.pdf",
       "nueva": false
@@ -1945,7 +1879,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T14:05:00",
       "fechaCierre": "2026-08-28T12:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1320532.pdf",
       "nueva": false
@@ -1967,7 +1901,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T13:55:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361605.pdf",
       "nueva": false
@@ -1989,7 +1923,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T10:05:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359287.doc",
       "nueva": false
@@ -2011,7 +1945,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T15:05:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360931.pdf",
       "nueva": false
@@ -2033,7 +1967,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-08T23:35:00",
       "fechaCierre": "2026-08-28T14:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1354589.doc",
       "nueva": false
@@ -2055,7 +1989,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:05:00",
       "fechaCierre": "2026-08-28T16:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362658.pdf",
       "nueva": false
@@ -2077,7 +2011,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T14:35:00",
       "fechaCierre": "2026-08-28T12:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360576.zip",
       "nueva": false
@@ -2099,7 +2033,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:40:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364177.pdf",
       "nueva": false
@@ -2121,7 +2055,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T17:35:00",
       "fechaCierre": "2026-08-28T13:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362763.pdf",
       "nueva": false
@@ -2143,7 +2077,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T10:00:00",
       "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1351673.docx",
       "nueva": false
@@ -2165,97 +2099,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T10:40:00",
       "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
+      "dias": 6,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363637.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1358919",
-      "idCompra": "1358919",
-      "nro": "441",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "INSUMOS RESPIRATORIOS PARA CTI",
-      "org": "Dirección Nacional de Sanidad de las Fuerzas Armadas",
-      "orgId": "3",
-      "ueId": "33",
-      "contacto": "SECTOR ABASTECIMIENTOS",
-      "email": "adqabastecimientos@dnsffaa.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-06T12:40:00",
-      "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358919.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1363453",
-      "idCompra": "1363453",
-      "nro": "5",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "Adquisición de libros para biblioteca",
-      "org": "Facultad de Arquitectura, Diseño y Urbanismo",
-      "orgId": "26",
-      "ueId": "3",
-      "contacto": "MATÍAS SIMONE",
-      "email": "compras@fadu.edu.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T14:45:00",
-      "fechaCierre": "2026-08-28T11:00:00",
-      "dias": 7,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363453.zip",
-      "nueva": false
-    },
-    {
-      "id": "1363450",
-      "idCompra": "1363450",
-      "nro": "37",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "REPAVIMENTACION CON TRATAMIENTO BITUMINOSO Y BACHEO DENTRO DEL MUNICIPIO DE LIBERTAD, DEPARTAMENTO DE SAN JOSÉ.-",
-      "org": "Intendencia de San José",
-      "orgId": "94",
-      "ueId": "1",
-      "contacto": "HACIENDA",
-      "email": "licitaciones@sanjose.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T14:45:00",
-      "fechaCierre": "2026-08-28T10:00:00",
-      "dias": 7,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363450.zip",
-      "nueva": false
-    },
-    {
-      "id": "i497674",
-      "idCompra": "i497674",
-      "nro": "A191672",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "CONSTRUCCIÓN Y MEJORAMIENTO DE PAVIMENTOS ECONÓMICOS.",
-      "org": "Intendencia de Montevideo",
-      "orgId": "98",
-      "ueId": "1",
-      "contacto": "COMPRAS",
-      "email": "consultapliegos.compras@imm.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-07-27T00:00:00",
-      "fechaCierre": "2026-08-28T14:15:00",
-      "dias": 7,
-      "rubro": "Construccion e infraestructura",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497674.html",
       "nueva": false
     },
     {
@@ -2275,10 +2121,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T10:20:00",
       "fechaCierre": "2026-08-31T10:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365777.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1323655",
@@ -2297,10 +2143,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-03-09T16:55:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1323655.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1358855",
@@ -2319,7 +2165,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T13:15:00",
       "fechaCierre": "2026-08-31T10:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358855.pdf",
       "nueva": false
@@ -2341,7 +2187,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-08T10:45:00",
       "fechaCierre": "2026-08-31T13:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1354352.7z",
       "nueva": false
@@ -2363,7 +2209,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-24T11:45:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358517.zip",
       "nueva": false
@@ -2385,7 +2231,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T13:40:00",
       "fechaCierre": "2026-08-31T14:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363414.pdf",
       "nueva": false
@@ -2407,7 +2253,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T15:45:00",
       "fechaCierre": "2026-08-31T10:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359945.pdf",
       "nueva": false
@@ -2429,10 +2275,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T11:35:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360825.zip",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365618",
@@ -2451,7 +2297,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:55:00",
       "fechaCierre": "2026-08-31T14:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365618.pdf",
       "nueva": false
@@ -2473,7 +2319,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T00:00:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498582.zip",
       "nueva": false
@@ -2495,7 +2341,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:40:00",
       "fechaCierre": "2026-08-31T15:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365735.pdf",
       "nueva": false
@@ -2517,7 +2363,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T13:30:00",
       "fechaCierre": "2026-08-31T14:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359459.7z",
       "nueva": false
@@ -2539,7 +2385,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T15:25:00",
       "fechaCierre": "2026-08-31T10:30:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361676.7z",
       "nueva": false
@@ -2561,7 +2407,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-15T14:15:00",
       "fechaCierre": "2026-08-31T10:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364256.pdf",
       "nueva": false
@@ -2583,7 +2429,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T13:20:00",
       "fechaCierre": "2026-08-31T12:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363791.docx",
       "nueva": false
@@ -2605,7 +2451,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T14:45:00",
       "fechaCierre": "2026-08-31T12:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357378.pdf",
       "nueva": false
@@ -2627,7 +2473,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T14:55:00",
       "fechaCierre": "2026-08-31T13:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364963.pdf",
       "nueva": false
@@ -2649,7 +2495,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T00:00:00",
       "fechaCierre": "2026-08-31T15:30:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497672.html",
       "nueva": false
@@ -2671,7 +2517,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-15T15:20:00",
       "fechaCierre": "2026-08-31T12:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364257.pdf",
       "nueva": false
@@ -2693,7 +2539,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T09:50:00",
       "fechaCierre": "2026-08-31T10:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350069.rar",
       "nueva": false
@@ -2715,7 +2561,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T10:55:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361970.doc",
       "nueva": false
@@ -2737,7 +2583,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T11:30:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363640.pdf",
       "nueva": false
@@ -2759,7 +2605,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T19:30:00",
       "fechaCierre": "2026-08-31T11:45:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498667.html",
       "nueva": false
@@ -2781,53 +2627,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T13:40:00",
       "fechaCierre": "2026-08-31T11:00:00",
-      "dias": 10,
+      "dias": 9,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363323.zip",
-      "nueva": false
-    },
-    {
-      "id": "1363270",
-      "idCompra": "1363270",
-      "nro": "11",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "La Intendencia Departamental de Florida convoca mediante el procedimiento de LICITACIÓN ABREVIADA, para la administración, gestión , explotación comercial y mantenimiento integral del camping en el Parque Salvador Robaina de la Ciudad de Florida según detalles que consta en el pliego de condiciones que rige para el presente llamado; en conformidad con el expediente Nº2026-86-001-01294",
-      "org": "Intendencia de Florida",
-      "orgId": "86",
-      "ueId": "1",
-      "contacto": "Yamila  Montenegro",
-      "email": "abastecimientos@florida.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T11:20:00",
-      "fechaCierre": "2026-08-31T10:30:00",
-      "dias": 10,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363270.pdf",
-      "nueva": false
-    },
-    {
-      "id": "i498994",
-      "idCompra": "i498994",
-      "nro": "A191579",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "SERVICIOS DE CONSULTORÍA PARA EL PLAN PARCIAL DEL ENTORNO DE LOS BAÑADOS DE CARRASCO.",
-      "org": "Intendencia de Montevideo",
-      "orgId": "98",
-      "ueId": "1",
-      "contacto": "COMPRAS",
-      "email": "consultapliegos.compras@imm.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T17:30:00",
-      "fechaCierre": "2026-08-31T14:15:00",
-      "dias": 10,
-      "rubro": "Consultoria y servicios",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498994.html",
       "nueva": false
     },
     {
@@ -2847,7 +2649,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:05:00",
       "fechaCierre": "2026-09-01T15:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364192.zip",
       "nueva": false
@@ -2869,10 +2671,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:20:00",
       "fechaCierre": "2026-09-01T14:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366100.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366105",
@@ -2891,10 +2693,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:35:00",
       "fechaCierre": "2026-09-01T15:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366105.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1361600",
@@ -2913,7 +2715,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T14:00:00",
       "fechaCierre": "2026-09-01T12:30:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361600.zip",
       "nueva": false
@@ -2935,7 +2737,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:35:00",
       "fechaCierre": "2026-09-01T10:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365098.pdf",
       "nueva": false
@@ -2957,7 +2759,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T15:30:00",
       "fechaCierre": "2026-09-01T11:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360967.pdf",
       "nueva": false
@@ -2979,7 +2781,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T00:00:00",
       "fechaCierre": "2026-09-01T11:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499209.pdf",
       "nueva": false
@@ -3001,7 +2803,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T15:40:00",
       "fechaCierre": "2026-09-01T12:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361682.zip",
       "nueva": false
@@ -3023,7 +2825,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T00:00:00",
       "fechaCierre": "2026-09-01T15:30:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497673.html",
       "nueva": false
@@ -3045,7 +2847,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T12:55:00",
       "fechaCierre": "2026-09-01T10:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360846.pdf",
       "nueva": false
@@ -3067,7 +2869,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T10:20:00",
       "fechaCierre": "2026-09-01T10:30:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360459.7z",
       "nueva": false
@@ -3089,7 +2891,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:30:00",
       "fechaCierre": "2026-09-01T10:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364131.7z",
       "nueva": false
@@ -3111,7 +2913,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:50:00",
       "fechaCierre": "2026-09-01T14:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363773.pdf",
       "nueva": false
@@ -3133,7 +2935,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:55:00",
       "fechaCierre": "2026-09-01T11:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364142.PDF",
       "nueva": false
@@ -3155,7 +2957,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:50:00",
       "fechaCierre": "2026-09-01T10:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1338072.pdf",
       "nueva": false
@@ -3177,7 +2979,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:50:00",
       "fechaCierre": "2026-09-01T13:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363123.pdf",
       "nueva": false
@@ -3199,7 +3001,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T09:10:00",
       "fechaCierre": "2026-09-01T11:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363571.pdf",
       "nueva": false
@@ -3221,7 +3023,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T11:45:00",
       "fechaCierre": "2026-09-01T11:00:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363641.pdf",
       "nueva": false
@@ -3243,7 +3045,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T14:35:00",
       "fechaCierre": "2026-09-01T10:30:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359902.7z",
       "nueva": false
@@ -3265,7 +3067,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T21:30:00",
       "fechaCierre": "2026-09-01T14:15:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499073.html",
       "nueva": false
@@ -3287,75 +3089,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T21:30:00",
       "fechaCierre": "2026-09-01T10:30:00",
-      "dias": 11,
+      "dias": 10,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499074.html",
-      "nueva": false
-    },
-    {
-      "id": "1362549",
-      "idCompra": "1362549",
-      "nro": "65",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "ADQUISICION DE PRODUCTOS PANIFICADOS",
-      "org": "Instituto del Niño y Adolescente del Uruguay INAU",
-      "orgId": "27",
-      "ueId": "1",
-      "contacto": "DIRECCION DEPARTAMENTAL DE ROCHA",
-      "email": "comprasrocha@inau.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-10T11:20:00",
-      "fechaCierre": "2026-09-01T12:00:00",
-      "dias": 11,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362549.pdf",
-      "nueva": false
-    },
-    {
-      "id": "i498999",
-      "idCompra": "i498999",
-      "nro": "A193226",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "ACONDICIONAMIENTO LUMÍNICO Y ELÉCTRICO EN ESPACIOS PÚBLICOS",
-      "org": "Intendencia de Montevideo",
-      "orgId": "98",
-      "ueId": "1",
-      "contacto": "COMPRAS",
-      "email": "consultapliegos.compras@imm.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T19:30:00",
-      "fechaCierre": "2026-09-01T13:00:00",
-      "dias": 11,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498999.html",
-      "nueva": false
-    },
-    {
-      "id": "i498997",
-      "idCompra": "i498997",
-      "nro": "A193091",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "CONTRATACION DEL SERVICIO DE MANTENIMIENTO Y LIMPIEZA DE LAS AREAS VERDES DEL SECTOR Nº 3 PARA LA IM",
-      "org": "Intendencia de Montevideo",
-      "orgId": "98",
-      "ueId": "1",
-      "contacto": "COMPRAS",
-      "email": "consultapliegos.compras@imm.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T19:30:00",
-      "fechaCierre": "2026-09-01T11:45:00",
-      "dias": 11,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498997.html",
       "nueva": false
     },
     {
@@ -3375,10 +3111,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T10:20:00",
       "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365831.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1358334",
@@ -3397,7 +3133,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T12:35:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358334.pdf",
       "nueva": false
@@ -3419,10 +3155,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T15:45:00",
       "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366078.7z",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1363620",
@@ -3441,7 +3177,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T10:55:00",
       "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363620.pdf",
       "nueva": false
@@ -3463,7 +3199,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-29T22:30:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359993.7z",
       "nueva": false
@@ -3485,10 +3221,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-04T15:55:00",
       "fechaCierre": "2026-09-02T10:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361331.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364735",
@@ -3507,7 +3243,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T10:15:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364735.pdf",
       "nueva": false
@@ -3529,7 +3265,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T16:35:00",
       "fechaCierre": "2026-09-02T10:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1348298.pdf",
       "nueva": false
@@ -3551,7 +3287,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-10T23:35:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1355235.doc",
       "nueva": false
@@ -3573,7 +3309,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-07T19:30:00",
       "fechaCierre": "2026-09-02T11:45:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498669.html",
       "nueva": false
@@ -3595,7 +3331,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T00:00:00",
       "fechaCierre": "2026-09-02T15:30:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498471.html",
       "nueva": false
@@ -3617,7 +3353,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T11:40:00",
       "fechaCierre": "2026-09-02T12:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361693.pdf",
       "nueva": false
@@ -3639,7 +3375,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T15:40:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364998.pdf",
       "nueva": false
@@ -3661,7 +3397,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T17:05:00",
       "fechaCierre": "2026-09-02T13:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365020.pdf",
       "nueva": false
@@ -3683,7 +3419,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T17:00:00",
       "fechaCierre": "2026-09-02T12:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363033.pdf",
       "nueva": false
@@ -3705,7 +3441,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T13:35:00",
       "fechaCierre": "2026-09-02T16:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363833.pdf",
       "nueva": false
@@ -3727,7 +3463,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:05:00",
       "fechaCierre": "2026-09-02T10:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364151.7z",
       "nueva": false
@@ -3749,7 +3485,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:30:00",
       "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364167.7z",
       "nueva": false
@@ -3771,7 +3507,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:45:00",
       "fechaCierre": "2026-09-02T14:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364169.pdf",
       "nueva": false
@@ -3793,7 +3529,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T16:30:00",
       "fechaCierre": "2026-09-02T14:30:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364218.pdf",
       "nueva": false
@@ -3815,7 +3551,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T13:50:00",
       "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363655.pdf",
       "nueva": false
@@ -3837,53 +3573,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T21:30:00",
       "fechaCierre": "2026-09-02T10:30:00",
-      "dias": 12,
+      "dias": 11,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499077.html",
-      "nueva": false
-    },
-    {
-      "id": "1363239",
-      "idCompra": "1363239",
-      "nro": "38",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "INSUMOS PARA COSTURERO.-",
-      "org": "Dirección Nacional de Sanidad Policial",
-      "orgId": "4",
-      "ueId": "30",
-      "contacto": "PAOLA CIBULIS RIVERO",
-      "email": "licitaciones@sanidadpolicial.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T10:40:00",
-      "fechaCierre": "2026-09-02T10:00:00",
-      "dias": 12,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363239.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1358135",
-      "idCompra": "1358135",
-      "nro": "26421",
-      "anio": "2026",
-      "tipo": "LP",
-      "tipoNombre": "Licitación Pública",
-      "obj": "Contratación de una Agencia de Empleo Privada suministradora de hasta 22 trabajadores para la Gerencia de Tecnologías de la Información",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Licitaciones Serv",
-      "email": "licservicios@ose.com.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-07-22T15:05:00",
-      "fechaCierre": "2026-09-02T11:00:00",
-      "dias": 12,
-      "rubro": "Tecnologia e IT",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358135.doc",
       "nueva": false
     },
     {
@@ -3903,7 +3595,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T10:40:00",
       "fechaCierre": "2026-09-03T10:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361463.pdf",
       "nueva": false
@@ -3925,7 +3617,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T17:30:00",
       "fechaCierre": "2026-09-03T14:15:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498791.html",
       "nueva": false
@@ -3947,7 +3639,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T11:35:00",
       "fechaCierre": "2026-09-03T10:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360800.pdf",
       "nueva": false
@@ -3969,7 +3661,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-03T00:00:00",
       "fechaCierre": "2026-09-03T15:30:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498234.html",
       "nueva": false
@@ -3991,7 +3683,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-06T00:00:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498526.pdf",
       "nueva": false
@@ -4013,7 +3705,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:15:00",
       "fechaCierre": "2026-09-03T10:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350628.pdf",
       "nueva": false
@@ -4035,7 +3727,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T14:10:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364176.pdf",
       "nueva": false
@@ -4057,7 +3749,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T10:05:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360052.doc",
       "nueva": false
@@ -4079,7 +3771,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-20T14:55:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357367.PDF",
       "nueva": false
@@ -4101,7 +3793,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T09:25:00",
       "fechaCierre": "2026-09-03T10:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364282.pdf",
       "nueva": false
@@ -4123,7 +3815,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T13:35:00",
       "fechaCierre": "2026-09-03T12:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364456.7z",
       "nueva": false
@@ -4145,7 +3837,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T14:58:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498828.zip",
       "nueva": false
@@ -4167,7 +3859,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-24T10:10:00",
       "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358562.doc",
       "nueva": false
@@ -4189,7 +3881,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-07T00:00:00",
       "fechaCierre": "2026-09-03T10:30:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i496172.html",
       "nueva": false
@@ -4211,7 +3903,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T14:55:00",
       "fechaCierre": "2026-09-03T13:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363452.doc",
       "nueva": false
@@ -4233,7 +3925,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T21:30:00",
       "fechaCierre": "2026-09-03T11:45:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499075.html",
       "nueva": false
@@ -4255,75 +3947,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T21:30:00",
       "fechaCierre": "2026-09-03T13:00:00",
-      "dias": 13,
+      "dias": 12,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499076.html",
-      "nueva": false
-    },
-    {
-      "id": "1362994",
-      "idCompra": "1362994",
-      "nro": "11",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "SERVICIO DE ARRENDAMIENTO, ACTUALIZACIÓN Y SOPORTE PARA FIREWALL FORTINET EN DATA CENTERS",
-      "org": "Direc. General de Secretaría.",
-      "orgId": "15",
-      "ueId": "1",
-      "contacto": "Dpto de Adquisiciones",
-      "email": "compras@mides.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T11:05:00",
-      "fechaCierre": "2026-09-03T11:00:00",
-      "dias": 13,
-      "rubro": "Tecnologia e IT",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362994.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1362007",
-      "idCompra": "1362007",
-      "nro": "1",
-      "anio": "2026",
-      "tipo": "LP",
-      "tipoNombre": "Licitación Pública",
-      "obj": "Refiere a la contratación de empresas especializadas en seguridad y vigilancia, para prestar servicios en locales pertenecientes a la DGETP.",
-      "org": "Consejo de Educación Técnico-Profesional",
-      "orgId": "25",
-      "ueId": "4",
-      "contacto": "Departamento de Compras - DGETP - UTU",
-      "email": "COMPRAS@UTU.EDU.UY",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-06T15:15:00",
-      "fechaCierre": "2026-09-03T14:00:00",
-      "dias": 13,
-      "rubro": "Seguridad y vigilancia",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362007.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1362336",
-      "idCompra": "1362336",
-      "nro": "32",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "Analista de Comunicación y Operaciones para el Programa Uruguay Global II",
-      "org": "Universidad Tecnológica del Uruguay",
-      "orgId": "31",
-      "ueId": "1",
-      "contacto": "COMPRAS",
-      "email": "compras@utec.edu.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T14:20:00",
-      "fechaCierre": "2026-09-03T17:00:00",
-      "dias": 13,
-      "rubro": "Consultoria y servicios",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362336.pdf",
       "nueva": false
     },
     {
@@ -4343,7 +3969,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-09T23:40:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1354824.doc",
       "nueva": false
@@ -4365,7 +3991,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T10:55:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364689.pdf",
       "nueva": false
@@ -4387,10 +4013,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:45:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365911.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364185",
@@ -4409,7 +4035,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T14:55:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364185.7z",
       "nueva": false
@@ -4431,10 +4057,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-06T19:30:00",
       "fechaCierre": "2026-09-04T13:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498550.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365023",
@@ -4453,7 +4079,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T17:15:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365023.7z",
       "nueva": false
@@ -4475,10 +4101,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-04T00:00:00",
       "fechaCierre": "2026-09-04T15:30:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498371.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1357727",
@@ -4497,7 +4123,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T11:15:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357727.pdf",
       "nueva": false
@@ -4519,7 +4145,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:20:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361931.pdf",
       "nueva": false
@@ -4541,7 +4167,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:05:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365637.pdf",
       "nueva": false
@@ -4563,7 +4189,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T17:55:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365032.7z",
       "nueva": false
@@ -4585,7 +4211,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:15:00",
       "fechaCierre": "2026-09-04T10:30:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365109.7z",
       "nueva": false
@@ -4607,7 +4233,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:35:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362929.pdf",
       "nueva": false
@@ -4629,7 +4255,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:40:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365121.pdf",
       "nueva": false
@@ -4651,7 +4277,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T07:50:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364265.PDF",
       "nueva": false
@@ -4673,7 +4299,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T18:00:00",
       "fechaCierre": "2026-09-04T14:15:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499373.html",
       "nueva": false
@@ -4695,7 +4321,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T12:50:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364091.pdf",
       "nueva": false
@@ -4717,7 +4343,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T12:25:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364826.pdf",
       "nueva": false
@@ -4739,7 +4365,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T12:25:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364823.pdf",
       "nueva": false
@@ -4761,7 +4387,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T14:50:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363804.PDF",
       "nueva": false
@@ -4783,7 +4409,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T19:00:00",
       "fechaCierre": "2026-09-04T14:30:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365034.pdf",
       "nueva": false
@@ -4805,7 +4431,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T10:15:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363954.zip",
       "nueva": false
@@ -4827,7 +4453,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-17T14:15:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1344281.pdf",
       "nueva": false
@@ -4849,7 +4475,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T13:20:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363759.pdf",
       "nueva": false
@@ -4871,7 +4497,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T11:25:00",
       "fechaCierre": "2026-09-04T10:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364373.pdf",
       "nueva": false
@@ -4893,7 +4519,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T14:15:00",
       "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364468.pdf",
       "nueva": false
@@ -4915,7 +4541,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T11:15:00",
       "fechaCierre": "2026-09-04T14:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363627.doc",
       "nueva": false
@@ -4937,7 +4563,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T15:10:00",
       "fechaCierre": "2026-09-04T14:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361656.PDF",
       "nueva": false
@@ -4959,7 +4585,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-21T16:20:00",
       "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1356309.zip",
       "nueva": false
@@ -4981,7 +4607,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-04T10:30:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499187.html",
       "nueva": false
@@ -5003,53 +4629,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-04T11:45:00",
-      "dias": 14,
+      "dias": 13,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499184.html",
-      "nueva": false
-    },
-    {
-      "id": "1362301",
-      "idCompra": "1362301",
-      "nro": "7",
-      "anio": "2026",
-      "tipo": "LP",
-      "tipoNombre": "Licitación Pública",
-      "obj": "Adquisición y distribución de hasta 15.000 canastas para celiacos para atender las necesidades de MIDES - INDA en Montevideo y Área Metropolitana",
-      "org": "Instituto Nacional de Alimentación",
-      "orgId": "15",
-      "ueId": "3",
-      "contacto": "Proveeduria - INDA",
-      "email": "proveeduriainda@mides.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T10:25:00",
-      "fechaCierre": "2026-09-04T11:00:00",
-      "dias": 14,
-      "rubro": "Logistica y transporte",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362301.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1347580",
-      "idCompra": "1347580",
-      "nro": "21",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "Adquisición de materiales promocionales",
-      "org": "Dirección General de Casinos",
-      "orgId": "5",
-      "ueId": "13",
-      "contacto": "Adquisiciones",
-      "email": "licitaciones@casinos.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-07-29T10:15:00",
-      "fechaCierre": "2026-09-04T12:00:00",
-      "dias": 14,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1347580.pdf",
       "nueva": false
     },
     {
@@ -5069,10 +4651,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T09:00:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365791.PDF",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1354340",
@@ -5091,10 +4673,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-08T10:10:00",
       "fechaCierre": "2026-09-07T11:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1354340.PDF",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i498962",
@@ -5113,7 +4695,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T15:16:00",
       "fechaCierre": "2026-09-07T11:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498962.pdf",
       "nueva": false
@@ -5135,10 +4717,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T13:00:00",
       "fechaCierre": "2026-09-07T17:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365697.zip",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1363634",
@@ -5157,7 +4739,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T12:45:00",
       "fechaCierre": "2026-09-07T13:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363634.pdf",
       "nueva": false
@@ -5179,7 +4761,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-07T13:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499183.html",
       "nueva": false
@@ -5201,10 +4783,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T15:25:00",
       "fechaCierre": "2026-09-07T10:30:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366060.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366068",
@@ -5223,10 +4805,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T15:30:00",
       "fechaCierre": "2026-09-07T10:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366068.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1361695",
@@ -5245,7 +4827,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-05T16:50:00",
       "fechaCierre": "2026-09-07T10:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361695.PDF",
       "nueva": false
@@ -5267,7 +4849,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T11:35:00",
       "fechaCierre": "2026-09-07T10:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365357.pdf",
       "nueva": false
@@ -5289,7 +4871,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T12:10:00",
       "fechaCierre": "2026-09-07T10:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365574.7z",
       "nueva": false
@@ -5311,7 +4893,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T12:25:00",
       "fechaCierre": "2026-09-07T13:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365585.7z",
       "nueva": false
@@ -5333,7 +4915,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:15:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365641.zip",
       "nueva": false
@@ -5355,7 +4937,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:30:00",
       "fechaCierre": "2026-09-07T11:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365654.PDF",
       "nueva": false
@@ -5377,7 +4959,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:35:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365653.zip",
       "nueva": false
@@ -5399,7 +4981,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T15:10:00",
       "fechaCierre": "2026-09-07T15:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365675.pdf",
       "nueva": false
@@ -5421,7 +5003,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:10:00",
       "fechaCierre": "2026-09-07T11:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365306.doc",
       "nueva": false
@@ -5443,7 +5025,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T17:30:00",
       "fechaCierre": "2026-09-07T10:30:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360252.pdf",
       "nueva": false
@@ -5465,7 +5047,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-07T11:45:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499186.html",
       "nueva": false
@@ -5487,7 +5069,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T11:20:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365154.7z",
       "nueva": false
@@ -5509,7 +5091,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-23T13:15:00",
       "fechaCierre": "2026-09-07T10:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350568.pdf",
       "nueva": false
@@ -5531,7 +5113,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T14:45:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361144.pdf",
       "nueva": false
@@ -5553,7 +5135,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T12:45:00",
       "fechaCierre": "2026-09-07T12:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364867.7z",
       "nueva": false
@@ -5575,7 +5157,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T15:55:00",
       "fechaCierre": "2026-09-07T14:00:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364874.pdf",
       "nueva": false
@@ -5597,7 +5179,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-07T10:30:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499188.html",
       "nueva": false
@@ -5619,31 +5201,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T21:30:00",
       "fechaCierre": "2026-09-07T14:15:00",
-      "dias": 17,
+      "dias": 16,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499185.html",
-      "nueva": false
-    },
-    {
-      "id": "1361546",
-      "idCompra": "1361546",
-      "nro": "12",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "CONCURSO DE PRECIOS N° 12/2026 POR \"SERVICIO DE MANTENIMIENTO SALA DE CALDERAS\"\n**COTIZAR DE ACUERDO AL PLIEGO, AJUSTÁNDOSE A LAS CONDICIONES DETALLADAS EN EL MISMO Y ASISTIR A LA VISITA OBLIGATORIA EL 17/08/2026 A LAS 10:00**\n\nLA DECLARACIÓN JURADA DEBERÁ CONTAR CON TIMBRE PROFESIONAL VALOR $ 270 Y ESTAR CONFORMADA UNICAMENTE POR LOS REPRESENTANTES Y/O TITULARES AUTORIZADOS EN RUPE A TALES EFECTOS.-\n\nSE RECUERDA A LOS OFERENTES QUE DEBERÁN SUBIR TODA LA DOCUMENTACIÓN SOLICITADA EN EL PLIEGO PARTICULAR DE CONDICIONES Y CUMPLIR CON LOS REQUISITOS MÍNIMOS ESTABLECIDOS EN EL MISMO",
-      "org": "Instituto Nacional del Cáncer",
-      "orgId": "29",
-      "ueId": "8",
-      "contacto": "CRISTIAN ANDRÉS ALVEZ MARTINEZ",
-      "email": "licitaciones.inca@asse.com.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-05T13:05:00",
-      "fechaCierre": "2026-09-07T11:00:00",
-      "dias": 17,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361546.pdf",
       "nueva": false
     },
     {
@@ -5663,10 +5223,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:35:00",
       "fechaCierre": "2026-09-08T17:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365897.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365919",
@@ -5685,10 +5245,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:45:00",
       "fechaCierre": "2026-09-08T17:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365919.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365918",
@@ -5707,10 +5267,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:55:00",
       "fechaCierre": "2026-09-08T17:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365918.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365920",
@@ -5729,10 +5289,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T12:05:00",
       "fechaCierre": "2026-09-08T17:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365920.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365946",
@@ -5751,10 +5311,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T12:30:00",
       "fechaCierre": "2026-09-08T10:30:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365946.7z",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1360582",
@@ -5773,10 +5333,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T12:35:00",
       "fechaCierre": "2026-09-08T12:30:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360582.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365956",
@@ -5795,10 +5355,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T13:00:00",
       "fechaCierre": "2026-09-08T16:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365956.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365999",
@@ -5817,10 +5377,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T14:25:00",
       "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365999.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366107",
@@ -5839,10 +5399,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:45:00",
       "fechaCierre": "2026-09-08T14:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366107.rar",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365412",
@@ -5861,7 +5421,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T08:55:00",
       "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365412.pdf",
       "nueva": false
@@ -5883,7 +5443,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T11:30:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364296.pdf",
       "nueva": false
@@ -5905,7 +5465,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:10:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365614.pdf",
       "nueva": false
@@ -5927,7 +5487,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:40:00",
       "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365625.7z",
       "nueva": false
@@ -5949,7 +5509,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:20:00",
       "fechaCierre": "2026-09-08T11:30:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365644.zip",
       "nueva": false
@@ -5971,7 +5531,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T22:00:00",
       "fechaCierre": "2026-09-08T10:30:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499386.html",
       "nueva": false
@@ -5993,7 +5553,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:05:00",
       "fechaCierre": "2026-09-08T14:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365369.pdf",
       "nueva": false
@@ -6015,7 +5575,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T09:45:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365086.pdf",
       "nueva": false
@@ -6037,7 +5597,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T13:10:00",
       "fechaCierre": "2026-09-08T12:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365210.7z",
       "nueva": false
@@ -6059,7 +5619,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:10:00",
       "fechaCierre": "2026-09-08T13:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364979.doc",
       "nueva": false
@@ -6081,7 +5641,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T16:45:00",
       "fechaCierre": "2026-09-08T13:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365352.7z",
       "nueva": false
@@ -6103,7 +5663,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T09:45:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364653.pdf",
       "nueva": false
@@ -6125,7 +5685,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T11:30:00",
       "fechaCierre": "2026-09-08T10:30:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364378.pdf",
       "nueva": false
@@ -6147,7 +5707,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T15:30:00",
       "fechaCierre": "2026-09-08T14:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363735.doc",
       "nueva": false
@@ -6169,7 +5729,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T12:35:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364845.docx",
       "nueva": false
@@ -6191,7 +5751,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T13:00:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364856.pdf",
       "nueva": false
@@ -6213,7 +5773,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T15:10:00",
       "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364978.doc",
       "nueva": false
@@ -6235,7 +5795,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T22:00:00",
       "fechaCierre": "2026-09-08T14:15:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499389.html",
       "nueva": false
@@ -6257,7 +5817,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T10:20:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364329.zip",
       "nueva": false
@@ -6279,7 +5839,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T12:05:00",
       "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364396.pdf",
       "nueva": false
@@ -6301,7 +5861,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T19:31:00",
       "fechaCierre": "2026-09-08T11:45:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499298.html",
       "nueva": false
@@ -6323,7 +5883,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T19:31:00",
       "fechaCierre": "2026-09-08T13:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499296.html",
       "nueva": false
@@ -6345,7 +5905,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T14:50:00",
       "fechaCierre": "2026-09-08T13:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498950.pdf",
       "nueva": false
@@ -6367,7 +5927,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:05:00",
       "fechaCierre": "2026-09-08T14:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364191.7z",
       "nueva": false
@@ -6389,53 +5949,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:35:00",
       "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
+      "dias": 17,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364089.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1361774",
-      "idCompra": "1361774",
-      "nro": "13",
-      "anio": "2026",
-      "tipo": "CR",
-      "tipoNombre": "Concurso de Precios",
-      "obj": "CONCURSO DE PRECIOS Nº 13/2026 POR  CONTRATACIÓN DE SERVICE Y MANTENIMIENTO DE ARMARIO PARA ENDOSCOPIOS FLEXIBLES ENDOCLEAR.\n\n**LOS OFERENTES DEBERÁN COTIZAR DE ACUERDO AL PLIEGO Y AJUSTARSE A LAS CONDICIONES DETALLADAS EN EL MISMO**\n\nLA DECLARACIÓN JURADA DEBERÁ CONTAR CON TIMBRE PROFESIONAL VALOR $ 270 Y ESTAR CONFORMADA UNICAMENTE POR LOS REPRESENTANTES Y/O TITULARES AUTORIZADOS EN RUPE A TALES EFECTOS.-\n\nSE RECUERDA A LOS OFERENTES QUE DEBERÁN SUBIR TODA LA DOCUMENTACIÓN SOLICITADA EN EL PLIEGO PARTICULAR DE CONDICIONES Y CUMPLIR CON LOS REQUISITOS MÍNIMOS ESTABLECIDOS EN EL MISMO",
-      "org": "Instituto Nacional del Cáncer",
-      "orgId": "29",
-      "ueId": "8",
-      "contacto": "CRISTIAN ANDRÉS ALVEZ MARTINEZ",
-      "email": "licitaciones.inca@asse.com.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-06T10:25:00",
-      "fechaCierre": "2026-09-08T10:00:00",
-      "dias": 18,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361774.pdf",
-      "nueva": false
-    },
-    {
-      "id": "i498949",
-      "idCompra": "i498949",
-      "nro": "17",
-      "anio": "2026",
-      "tipo": "LP",
-      "tipoNombre": "Licitación Pública",
-      "obj": "CLASIFICACIÓN Y ANÁLISIS DE RESIDUOS",
-      "org": "Intendencia de Canelones",
-      "orgId": "81",
-      "ueId": "1",
-      "contacto": "Dpto. de Licitaciones",
-      "email": "licitaciones@imcanelones.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T14:15:00",
-      "fechaCierre": "2026-09-08T11:00:00",
-      "dias": 18,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498949.pdf",
       "nueva": false
     },
     {
@@ -6455,7 +5971,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T22:00:00",
       "fechaCierre": "2026-09-09T14:15:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499387.html",
       "nueva": false
@@ -6477,7 +5993,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T16:00:00",
       "fechaCierre": "2026-09-09T10:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364546.pdf",
       "nueva": false
@@ -6499,7 +6015,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T22:00:00",
       "fechaCierre": "2026-09-09T10:30:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499388.html",
       "nueva": false
@@ -6521,7 +6037,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T11:05:00",
       "fechaCierre": "2026-09-09T17:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365523.pdf",
       "nueva": false
@@ -6543,7 +6059,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:25:00",
       "fechaCierre": "2026-09-09T11:30:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365647.zip",
       "nueva": false
@@ -6565,7 +6081,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:10:00",
       "fechaCierre": "2026-09-09T11:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365304.doc",
       "nueva": false
@@ -6587,7 +6103,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T22:00:00",
       "fechaCierre": "2026-09-09T13:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499385.html",
       "nueva": false
@@ -6609,7 +6125,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T13:40:00",
       "fechaCierre": "2026-09-09T10:30:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363079.zip",
       "nueva": false
@@ -6631,7 +6147,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T15:15:00",
       "fechaCierre": "2026-09-09T11:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362674.pdf",
       "nueva": false
@@ -6653,7 +6169,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T16:55:00",
       "fechaCierre": "2026-09-09T11:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364138.pdf",
       "nueva": false
@@ -6675,7 +6191,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T19:31:00",
       "fechaCierre": "2026-09-09T11:45:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499297.html",
       "nueva": false
@@ -6697,31 +6213,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T15:30:00",
       "fechaCierre": "2026-09-09T14:00:00",
-      "dias": 19,
+      "dias": 18,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363716.docx",
-      "nueva": false
-    },
-    {
-      "id": "1363499",
-      "idCompra": "1363499",
-      "nro": "30",
-      "anio": "2026",
-      "tipo": "VA",
-      "tipoNombre": "Venta/Arrendamiento Licitación Abreviada",
-      "obj": "Explotación del Parador Los Pinos, sito en Balneario Los Pinos",
-      "org": "Intendencia de Colonia",
-      "orgId": "83",
-      "ueId": "1",
-      "contacto": "Sr. Carlos Martin Scala",
-      "email": "turismo@colonia.gub.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T15:50:00",
-      "fechaCierre": "2026-09-09T14:00:00",
-      "dias": 19,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363499.pdf",
       "nueva": false
     },
     {
@@ -6741,7 +6235,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T11:05:00",
       "fechaCierre": "2026-09-10T10:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364733.pdf",
       "nueva": false
@@ -6763,7 +6257,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:35:00",
       "fechaCierre": "2026-09-10T11:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364207.7z",
       "nueva": false
@@ -6785,7 +6279,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T12:55:00",
       "fechaCierre": "2026-09-10T10:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365596.docx",
       "nueva": false
@@ -6807,7 +6301,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:25:00",
       "fechaCierre": "2026-09-10T10:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Consultoria y servicios",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365003.pdf",
       "nueva": false
@@ -6829,7 +6323,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-24T13:00:00",
       "fechaCierre": "2026-09-10T10:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350890.pdf",
       "nueva": false
@@ -6851,7 +6345,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:10:00",
       "fechaCierre": "2026-09-10T11:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365305.doc",
       "nueva": false
@@ -6873,7 +6367,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T19:30:00",
       "fechaCierre": "2026-09-10T14:15:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499467.html",
       "nueva": false
@@ -6895,7 +6389,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T21:30:00",
       "fechaCierre": "2026-09-10T11:45:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499473.html",
       "nueva": false
@@ -6917,7 +6411,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T17:30:00",
       "fechaCierre": "2026-09-10T10:30:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498993.html",
       "nueva": false
@@ -6939,7 +6433,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-17T15:35:00",
       "fechaCierre": "2026-09-10T13:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364531.zip",
       "nueva": false
@@ -6961,7 +6455,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T00:00:00",
       "fechaCierre": "2026-09-10T11:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i498802.pdf",
       "nueva": false
@@ -6983,31 +6477,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T18:00:00",
       "fechaCierre": "2026-09-10T15:00:00",
-      "dias": 20,
+      "dias": 19,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362776.doc",
-      "nueva": false
-    },
-    {
-      "id": "1357101",
-      "idCompra": "1357101",
-      "nro": "11",
-      "anio": "2026",
-      "tipo": "LP",
-      "tipoNombre": "Licitación Pública",
-      "obj": "CONTRATACIÓN DE SERVICIO DE SEGURIDAD PARA LOCALES ESCOLARES Y OFICINAS DE LA D.G.E.I.P\n¿ MONTEVIDEO Y CANELONES",
-      "org": "Consejo de Educación Inicial y Primaria",
-      "orgId": "25",
-      "ueId": "2",
-      "contacto": "CECILIA RODRÍGUEZ",
-      "email": "licitacionesservicios@dgeip.edu.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T17:55:00",
-      "fechaCierre": "2026-09-10T10:00:00",
-      "dias": 20,
-      "rubro": "Seguridad y vigilancia",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357101.pdf",
       "nueva": false
     },
     {
@@ -7027,10 +6499,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:10:00",
       "fechaCierre": "2026-09-11T10:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365879.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1361344",
@@ -7049,7 +6521,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:10:00",
       "fechaCierre": "2026-09-11T11:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361344.pdf",
       "nueva": false
@@ -7071,10 +6543,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-20T00:00:00",
       "fechaCierre": "2026-09-11T11:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i497063.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365582",
@@ -7093,7 +6565,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T12:30:00",
       "fechaCierre": "2026-09-11T10:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365582.pdf",
       "nueva": false
@@ -7115,7 +6587,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T15:10:00",
       "fechaCierre": "2026-09-11T11:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365677.doc",
       "nueva": false
@@ -7137,7 +6609,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:30:00",
       "fechaCierre": "2026-09-11T11:45:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499559.html",
       "nueva": false
@@ -7159,7 +6631,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T19:30:00",
       "fechaCierre": "2026-09-11T10:30:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499570.html",
       "nueva": false
@@ -7181,7 +6653,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T19:30:00",
       "fechaCierre": "2026-09-11T14:15:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499571.html",
       "nueva": false
@@ -7203,7 +6675,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T19:30:00",
       "fechaCierre": "2026-09-11T13:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499568.html",
       "nueva": false
@@ -7225,7 +6697,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T10:35:00",
       "fechaCierre": "2026-09-11T11:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361691.pdf",
       "nueva": false
@@ -7247,7 +6719,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T11:50:00",
       "fechaCierre": "2026-09-11T10:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364787.pdf",
       "nueva": false
@@ -7269,7 +6741,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T12:30:00",
       "fechaCierre": "2026-09-11T11:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1329178.doc",
       "nueva": false
@@ -7291,7 +6763,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-10T10:55:00",
       "fechaCierre": "2026-09-11T12:00:00",
-      "dias": 21,
+      "dias": 20,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1362527.pdf",
       "nueva": false
@@ -7313,10 +6785,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T10:30:00",
       "fechaCierre": "2026-09-14T10:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365847.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1359267",
@@ -7335,7 +6807,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:50:00",
       "fechaCierre": "2026-09-14T12:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359267.pdf",
       "nueva": false
@@ -7357,10 +6829,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-14T11:45:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499673.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499675",
@@ -7379,10 +6851,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-14T10:30:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499675.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499683",
@@ -7401,10 +6873,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-14T14:15:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499683.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365628",
@@ -7423,7 +6895,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T13:55:00",
       "fechaCierre": "2026-09-14T10:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365628.pdf",
       "nueva": false
@@ -7445,7 +6917,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:55:00",
       "fechaCierre": "2026-09-14T14:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365351.pdf",
       "nueva": false
@@ -7467,7 +6939,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T15:10:00",
       "fechaCierre": "2026-09-14T11:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360651.doc",
       "nueva": false
@@ -7489,7 +6961,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T17:30:00",
       "fechaCierre": "2026-09-14T13:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499560.html",
       "nueva": false
@@ -7511,7 +6983,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T11:00:00",
       "fechaCierre": "2026-09-14T14:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365132.pdf",
       "nueva": false
@@ -7533,7 +7005,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T16:35:00",
       "fechaCierre": "2026-09-14T10:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361322.pdf",
       "nueva": false
@@ -7555,7 +7027,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T12:25:00",
       "fechaCierre": "2026-09-14T12:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363032.zip",
       "nueva": false
@@ -7577,7 +7049,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T15:05:00",
       "fechaCierre": "2026-09-14T11:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363137.pdf",
       "nueva": false
@@ -7599,31 +7071,9 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-13T16:05:00",
       "fechaCierre": "2026-09-14T10:00:00",
-      "dias": 24,
+      "dias": 23,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363837.pdf",
-      "nueva": false
-    },
-    {
-      "id": "1363197",
-      "idCompra": "1363197",
-      "nro": "163",
-      "anio": "2026",
-      "tipo": "LA",
-      "tipoNombre": "Licitación Abreviada",
-      "obj": "MANTENIMIENTO EDILICIO",
-      "org": "Centro Auxiliar de Bella Unión",
-      "orgId": "29",
-      "ueId": "34",
-      "contacto": "Mariel Pereira",
-      "email": "compras.bunion@asse.com.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-12T11:50:00",
-      "fechaCierre": "2026-09-14T10:00:00",
-      "dias": 24,
-      "rubro": "Limpieza y mantenimiento",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363197.pdf",
       "nueva": false
     },
     {
@@ -7643,10 +7093,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-21T10:55:00",
       "fechaCierre": "2026-09-15T12:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1336840.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499685",
@@ -7665,10 +7115,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-15T11:45:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499685.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499674",
@@ -7687,10 +7137,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-15T10:30:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499674.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499690",
@@ -7709,10 +7159,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T21:30:00",
       "fechaCierre": "2026-09-15T14:15:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499690.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499691",
@@ -7731,10 +7181,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T21:30:00",
       "fechaCierre": "2026-09-15T13:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499691.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1359423",
@@ -7753,7 +7203,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-28T12:55:00",
       "fechaCierre": "2026-09-15T10:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359423.zip",
       "nueva": false
@@ -7775,7 +7225,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T14:45:00",
       "fechaCierre": "2026-09-15T10:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365662.pdf",
       "nueva": false
@@ -7797,7 +7247,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T10:20:00",
       "fechaCierre": "2026-09-15T10:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365094.pdf",
       "nueva": false
@@ -7819,7 +7269,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-31T23:35:00",
       "fechaCierre": "2026-09-15T14:00:00",
-      "dias": 25,
+      "dias": 24,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1360650.doc",
       "nueva": false
@@ -7841,7 +7291,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T16:40:00",
       "fechaCierre": "2026-09-16T10:30:00",
-      "dias": 26,
+      "dias": 25,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365016.zip",
       "nueva": false
@@ -7863,10 +7313,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T17:30:00",
       "fechaCierre": "2026-09-16T13:00:00",
-      "dias": 26,
+      "dias": 25,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499676.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1348812",
@@ -7885,7 +7335,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-22T08:55:00",
       "fechaCierre": "2026-09-16T10:00:00",
-      "dias": 26,
+      "dias": 25,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1348812.docx",
       "nueva": false
@@ -7907,7 +7357,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T18:00:00",
       "fechaCierre": "2026-09-16T15:00:00",
-      "dias": 26,
+      "dias": 25,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364229.zip",
       "nueva": false
@@ -7929,10 +7379,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-27T16:15:00",
       "fechaCierre": "2026-09-17T10:00:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1359202.PDF",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365676",
@@ -7951,7 +7401,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T15:05:00",
       "fechaCierre": "2026-09-17T10:00:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365676.doc",
       "nueva": false
@@ -7973,10 +7423,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T16:45:00",
       "fechaCierre": "2026-09-17T11:00:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366086.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364188",
@@ -7995,7 +7445,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:00:00",
       "fechaCierre": "2026-09-17T12:00:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364188.pdf",
       "nueva": false
@@ -8017,7 +7467,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T16:35:00",
       "fechaCierre": "2026-09-17T10:30:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365340.pdf",
       "nueva": false
@@ -8039,7 +7489,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T10:45:00",
       "fechaCierre": "2026-09-17T10:00:00",
-      "dias": 27,
+      "dias": 26,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364719.pdf",
       "nueva": false
@@ -8061,10 +7511,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T15:30:00",
       "fechaCierre": "2026-09-18T14:00:00",
-      "dias": 28,
+      "dias": 27,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366057.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1361221",
@@ -8083,7 +7533,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T14:20:00",
       "fechaCierre": "2026-09-18T14:00:00",
-      "dias": 28,
+      "dias": 27,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361221.doc",
       "nueva": false
@@ -8105,7 +7555,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-23T15:15:00",
       "fechaCierre": "2026-09-18T13:00:00",
-      "dias": 28,
+      "dias": 27,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1350647.7z",
       "nueva": false
@@ -8127,7 +7577,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-30T12:00:00",
       "fechaCierre": "2026-09-18T10:30:00",
-      "dias": 28,
+      "dias": 27,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1358905.pdf",
       "nueva": false
@@ -8149,7 +7599,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T14:15:00",
       "fechaCierre": "2026-09-18T13:00:00",
-      "dias": 28,
+      "dias": 27,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364927.pdf",
       "nueva": false
@@ -8171,7 +7621,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T11:30:00",
       "fechaCierre": "2026-09-21T12:00:00",
-      "dias": 31,
+      "dias": 30,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365159.zip",
       "nueva": false
@@ -8193,7 +7643,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T13:15:00",
       "fechaCierre": "2026-09-21T11:00:00",
-      "dias": 31,
+      "dias": 30,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1361000.doc",
       "nueva": false
@@ -8215,7 +7665,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T17:25:00",
       "fechaCierre": "2026-09-21T14:00:00",
-      "dias": 31,
+      "dias": 30,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365361.pdf",
       "nueva": false
@@ -8237,7 +7687,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T09:55:00",
       "fechaCierre": "2026-09-21T10:00:00",
-      "dias": 31,
+      "dias": 30,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364413.pdf",
       "nueva": false
@@ -8259,7 +7709,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:20:00",
       "fechaCierre": "2026-09-21T14:00:00",
-      "dias": 31,
+      "dias": 30,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363753.doc",
       "nueva": false
@@ -8281,10 +7731,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T15:10:00",
       "fechaCierre": "2026-09-22T10:00:00",
-      "dias": 32,
+      "dias": 31,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1366040.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365555",
@@ -8303,7 +7753,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T11:40:00",
       "fechaCierre": "2026-09-22T12:00:00",
-      "dias": 32,
+      "dias": 31,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365555.zip",
       "nueva": false
@@ -8325,7 +7775,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-20T15:10:00",
       "fechaCierre": "2026-09-22T11:00:00",
-      "dias": 32,
+      "dias": 31,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365678.doc",
       "nueva": false
@@ -8347,7 +7797,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-18T14:10:00",
       "fechaCierre": "2026-09-22T10:00:00",
-      "dias": 32,
+      "dias": 31,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1364919.pdf",
       "nueva": false
@@ -8369,7 +7819,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T15:20:00",
       "fechaCierre": "2026-09-22T14:00:00",
-      "dias": 32,
+      "dias": 31,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363772.pdf",
       "nueva": false
@@ -8391,7 +7841,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T15:35:00",
       "fechaCierre": "2026-09-23T10:00:00",
-      "dias": 33,
+      "dias": 32,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365318.zip",
       "nueva": false
@@ -8413,7 +7863,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-11T12:55:00",
       "fechaCierre": "2026-09-23T10:00:00",
-      "dias": 33,
+      "dias": 32,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1356992.zip",
       "nueva": false
@@ -8435,7 +7885,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-19T12:25:00",
       "fechaCierre": "2026-09-24T10:00:00",
-      "dias": 34,
+      "dias": 33,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1357664.pdf",
       "nueva": false
@@ -8457,7 +7907,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-14T12:40:00",
       "fechaCierre": "2026-09-25T10:00:00",
-      "dias": 35,
+      "dias": 34,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363980.odt",
       "nueva": false
@@ -8479,10 +7929,10 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-21T11:20:00",
       "fechaCierre": "2026-09-28T10:00:00",
-      "dias": 38,
+      "dias": 37,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1365757.odt",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1363514",
@@ -8501,7 +7951,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-08-12T16:25:00",
       "fechaCierre": "2026-09-28T14:00:00",
-      "dias": 38,
+      "dias": 37,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1363514.pdf",
       "nueva": false
@@ -8523,7 +7973,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-12T14:25:00",
       "fechaCierre": "2026-09-30T12:00:00",
-      "dias": 40,
+      "dias": 39,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1347387.pdf",
       "nueva": false
@@ -8545,7 +7995,7 @@
       "moneda": "UYU",
       "fechaPub": "2026-06-29T15:10:00",
       "fechaCierre": "2026-10-06T14:00:00",
-      "dias": 46,
+      "dias": 45,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1352194.pdf",
       "nueva": false
@@ -8567,9 +8017,31 @@
       "moneda": "UYU",
       "fechaPub": "2026-07-21T12:10:00",
       "fechaCierre": "2026-10-08T10:00:00",
-      "dias": 48,
+      "dias": 47,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_1347192.pdf",
+      "nueva": false
+    },
+    {
+      "id": "1364985",
+      "idCompra": "1364985",
+      "nro": "88723",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "UPS Ciudad de La Costa",
+      "org": "Administración de las Obras Sanitarias del Estado",
+      "orgId": "66",
+      "ueId": "1",
+      "contacto": "Gcia.Amb.IV TEC",
+      "email": "regioncentro@ose.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-18T15:10:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1364985.doc",
       "nueva": false
     },
     {
@@ -8592,7 +8064,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365776.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499304",
@@ -8614,7 +8086,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499304.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365775",
@@ -8636,7 +8108,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365775.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365788",
@@ -8658,7 +8130,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365788.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365797",
@@ -8680,7 +8152,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365797",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365265",
@@ -8724,7 +8196,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365809",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365814",
@@ -8746,7 +8218,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365814.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365823",
@@ -8768,7 +8240,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365823.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365605",
@@ -8790,7 +8262,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365605.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365837",
@@ -8812,7 +8284,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365837.odt",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365838",
@@ -8834,7 +8306,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365838",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365842",
@@ -8856,7 +8328,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365842.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365853",
@@ -8878,7 +8350,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365853",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365859",
@@ -8900,7 +8372,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365859.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365870",
@@ -8922,7 +8394,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365870.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365886",
@@ -8944,7 +8416,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365886.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364864",
@@ -8966,7 +8438,7 @@
       "dias": null,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1364864.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365844",
@@ -8988,7 +8460,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365844.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364412",
@@ -9010,7 +8482,7 @@
       "dias": null,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1364412.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365904",
@@ -9032,7 +8504,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365904.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365251",
@@ -9054,7 +8526,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365251.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365903",
@@ -9076,7 +8548,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365903.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365916",
@@ -9098,7 +8570,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365916.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365882",
@@ -9120,7 +8592,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365882",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1354686",
@@ -9142,7 +8614,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1354686.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365924",
@@ -9164,7 +8636,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365924.odt",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365938",
@@ -9186,7 +8658,7 @@
       "dias": null,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365938.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365940",
@@ -9208,7 +8680,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365940",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365948",
@@ -9230,7 +8702,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365948.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365542",
@@ -9274,7 +8746,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365953.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365939",
@@ -9296,7 +8768,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365939.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365952",
@@ -9318,7 +8790,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365952.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1361358",
@@ -9340,7 +8812,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1361358.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365955",
@@ -9362,7 +8834,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365955.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365957",
@@ -9384,7 +8856,7 @@
       "dias": null,
       "rubro": "Logistica y transporte",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365957",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365962",
@@ -9406,7 +8878,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365962",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365963",
@@ -9428,7 +8900,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365963",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365964",
@@ -9450,7 +8922,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365964",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365965",
@@ -9472,7 +8944,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365965",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365943",
@@ -9494,7 +8966,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365943.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499615",
@@ -9516,7 +8988,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499615.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499614",
@@ -9538,7 +9010,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499614.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499613",
@@ -9560,7 +9032,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499613.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365543",
@@ -9582,7 +9054,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365543.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365995",
@@ -9604,7 +9076,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365995.odt",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366010",
@@ -9626,7 +9098,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366010.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366006",
@@ -9648,7 +9120,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366006.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366016",
@@ -9670,7 +9142,7 @@
       "dias": null,
       "rubro": "Alimentacion y catering",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366016.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365983",
@@ -9692,7 +9164,7 @@
       "dias": null,
       "rubro": "Logistica y transporte",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365983.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499497",
@@ -9736,7 +9208,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366018.odt",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366024",
@@ -9758,7 +9230,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366024.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366019",
@@ -9780,7 +9252,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366019.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499616",
@@ -9802,7 +9274,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499616.zip",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366025",
@@ -9824,7 +9296,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366025.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365649",
@@ -9846,7 +9318,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365649.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499515",
@@ -9890,7 +9362,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499240.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366034",
@@ -9912,29 +9384,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366034.pdf",
-      "nueva": true
-    },
-    {
-      "id": "1364985",
-      "idCompra": "1364985",
-      "nro": "88723",
-      "anio": "2026",
-      "tipo": "CD",
-      "tipoNombre": "Compra Directa",
-      "obj": "UPS Ciudad de La Costa",
-      "org": "Administración de las Obras Sanitarias del Estado",
-      "orgId": "66",
-      "ueId": "1",
-      "contacto": "Gcia.Amb.IV TEC",
-      "email": "regioncentro@ose.com.uy",
-      "monto": null,
-      "moneda": "UYU",
-      "fechaPub": "2026-08-18T15:10:00",
-      "fechaCierre": null,
-      "dias": null,
-      "rubro": "Otros",
-      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1364985.doc",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366045",
@@ -9956,7 +9406,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366045.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366055",
@@ -9978,7 +9428,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366055.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366058",
@@ -10000,7 +9450,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366058.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499643",
@@ -10022,7 +9472,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499643.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499642",
@@ -10044,7 +9494,7 @@
       "dias": null,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499642.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499637",
@@ -10066,7 +9516,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499637.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499641",
@@ -10088,7 +9538,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499641.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499639",
@@ -10110,7 +9560,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499639.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499640",
@@ -10132,7 +9582,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499640.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499638",
@@ -10154,7 +9604,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499638.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366066",
@@ -10176,7 +9626,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366066.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366062",
@@ -10198,7 +9648,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366062.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366065",
@@ -10220,7 +9670,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366065.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365993",
@@ -10242,7 +9692,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365993.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366082",
@@ -10264,7 +9714,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366082.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1364819",
@@ -10308,7 +9758,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366041.docx",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366098",
@@ -10330,7 +9780,7 @@
       "dias": null,
       "rubro": "Limpieza y mantenimiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366098.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499667",
@@ -10352,7 +9802,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499667.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499668",
@@ -10374,7 +9824,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499668.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499678",
@@ -10396,7 +9846,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499678.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499686",
@@ -10418,7 +9868,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499686.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499672",
@@ -10440,7 +9890,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499672.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499684",
@@ -10462,7 +9912,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499684.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499666",
@@ -10484,7 +9934,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499666.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499687",
@@ -10506,7 +9956,7 @@
       "dias": null,
       "rubro": "Tecnologia e IT",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499687.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499679",
@@ -10528,7 +9978,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499679.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499677",
@@ -10550,7 +10000,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499677.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499669",
@@ -10572,7 +10022,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499669.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499670",
@@ -10594,7 +10044,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499670.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499671",
@@ -10616,7 +10066,7 @@
       "dias": null,
       "rubro": "Salud e insumos medicos",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499671.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499680",
@@ -10638,7 +10088,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499680.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499681",
@@ -10660,7 +10110,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499681.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499682",
@@ -10682,7 +10132,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499682.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366031",
@@ -10704,7 +10154,7 @@
       "dias": null,
       "rubro": "Seguridad y vigilancia",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366031.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366110",
@@ -10726,7 +10176,7 @@
       "dias": null,
       "rubro": "Mobiliario y equipamiento",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366110.pdf",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1366113",
@@ -10748,7 +10198,7 @@
       "dias": null,
       "rubro": "Construccion e infraestructura",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1366113.zip",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "i499689",
@@ -10770,7 +10220,7 @@
       "dias": null,
       "rubro": "Otros",
       "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499689.html",
-      "nueva": true
+      "nueva": false
     },
     {
       "id": "1365095",
@@ -11013,6 +10463,556 @@
       "rubro": "Otros",
       "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365432",
       "nueva": false
+    },
+    {
+      "id": "1365120",
+      "idCompra": "1365120",
+      "nro": "1427",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "LAMINAS ARENADAS",
+      "org": "Hospital Maciel",
+      "orgId": "29",
+      "ueId": "5",
+      "contacto": "GELEN VALERIA MARTINEZ MOREIRA",
+      "email": "rrmm.maciel@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-19T10:40:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365120.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365433",
+      "idCompra": "1365433",
+      "nro": "14146",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "Estudios preferentemente de la zona. Pago SIIF",
+      "org": "Hospital de San Carlos",
+      "orgId": "29",
+      "ueId": "54",
+      "contacto": "Noelia García",
+      "email": "compras.sancarlos@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:20:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Consultoria y servicios",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365433",
+      "nueva": true
+    },
+    {
+      "id": "1365436",
+      "idCompra": "1365436",
+      "nro": "936",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "STAPHYLOCOCCUS KIT LATEX.-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 473 23140/23144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:20:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365436",
+      "nueva": true
+    },
+    {
+      "id": "1365437",
+      "idCompra": "1365437",
+      "nro": "14163",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "Estudios preferentemente de la zona. Pago SIIF",
+      "org": "Hospital de San Carlos",
+      "orgId": "29",
+      "ueId": "54",
+      "contacto": "Noelia García",
+      "email": "compras.sancarlos@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:20:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Consultoria y servicios",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365437",
+      "nueva": true
+    },
+    {
+      "id": "1365439",
+      "idCompra": "1365439",
+      "nro": "14157",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "Estudios preferentemente de la zona. Pago SIIF",
+      "org": "Hospital de San Carlos",
+      "orgId": "29",
+      "ueId": "54",
+      "contacto": "Noelia García",
+      "email": "compras.sancarlos@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:25:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Consultoria y servicios",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365439",
+      "nueva": true
+    },
+    {
+      "id": "1365446",
+      "idCompra": "1365446",
+      "nro": "937",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "TIRA E-TEST ANTIBIOGRAMA.-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 47323140/3144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:35:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365446",
+      "nueva": true
+    },
+    {
+      "id": "1365427",
+      "idCompra": "1365427",
+      "nro": "52",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "Restauración de Sillas del Patio de Sorteo del Organismo (6 asientos diferentes)\nVISITA OBLIGATORIA MIÉRCOLES 26/8 HORA 11:00\nTeléfono de contacto 29160376 int 128 Servicios Generales\nDireccion Cerrito 220 (ofertas por mail a compras@loteria.gub.uy)",
+      "org": "Dirección Nacional de Loterías y Quinielas",
+      "orgId": "5",
+      "ueId": "8",
+      "contacto": "NATALIA REBOLEDO RODRIGUEZ",
+      "email": "compras@loteria.gub",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:35:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Mobiliario y equipamiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365427.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365244",
+      "idCompra": "1365244",
+      "nro": "14166",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "CABLE EXTENSOR USB\nCOTIZAR SEGUN PLIEGO ADJUNTO",
+      "org": "Red de Atención Primaria de Rocha",
+      "orgId": "29",
+      "ueId": "44",
+      "contacto": "COMPRAS RAP ROCHA",
+      "email": "compras.raprocha@asse.com",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-19T14:00:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365244.odt",
+      "nueva": true
+    },
+    {
+      "id": "1365448",
+      "idCompra": "1365448",
+      "nro": "938",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "TIRAS PARA MEDIR PH/RANGO DE: 0 A 14/, Ó  /1 A 7 /, Ó  DE  /0 A 7/.-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 47323140/3144 INTERNO 317/305 centrodemateriales.salto@asse.com.uy  LIC. Juan Pablo Oberti.-",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:45:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365448",
+      "nueva": true
+    },
+    {
+      "id": "1365458",
+      "idCompra": "1365458",
+      "nro": "939",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "HISOPO ESTERIL PARA TOMA DE MUESTRA VIRAL, ESTERIL (PEEL PACK IND 150mm * 100 UNID).\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 473 23140/23144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365458",
+      "nueva": true
+    },
+    {
+      "id": "1365457",
+      "idCompra": "1365457",
+      "nro": "14145",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "MEDICAMENTOS\nCOTIZAR SEGÚN PLIEGO.\nEN CASO DE NO ADJUNTAR LA DOCUMENTACIÓN SOLICITADA LAS OFERTAS SERÁN DESCARTADAS.",
+      "org": "Hospital Español",
+      "orgId": "29",
+      "ueId": "76",
+      "contacto": "FARMACIA",
+      "email": "farmacia.espanol@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T09:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Salud e insumos medicos",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365457.odt",
+      "nueva": true
+    },
+    {
+      "id": "1365468",
+      "idCompra": "1365468",
+      "nro": "940",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "JERINGA CON HEPARINA DE LITIO LIOFILIZADA (GASOMETRIA).-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 47323140/3144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:05:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365468",
+      "nueva": true
+    },
+    {
+      "id": "1365286",
+      "idCompra": "1365286",
+      "nro": "2329",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "COMPUTADORA DE ESCRITORIO",
+      "org": "Laboratorio Químico Industrial Francisco Dorrego",
+      "orgId": "29",
+      "ueId": "64",
+      "contacto": "GIULIANA GARCIA CARDOZO",
+      "email": "COMPRAS.DORRECO@ASSE.COM.UY",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-19T14:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Tecnologia e IT",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365286.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1364970",
+      "idCompra": "1364970",
+      "nro": "2327",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "AIRE ACONDICIONADO DE 9000, 12000 Y 18000 BTU",
+      "org": "Laboratorio Químico Industrial Francisco Dorrego",
+      "orgId": "29",
+      "ueId": "64",
+      "contacto": "GIULIANA GARCIA CARDOZO",
+      "email": "COMPRAS.DORREGO@ASSE.COM.UY",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-19T13:15:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Mobiliario y equipamiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1364970.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365476",
+      "idCompra": "1365476",
+      "nro": "14164",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "INSTALACIÓN DE EQUIPO DE AIRE ACONDICIONADO DE 18000BTU EN SALA DE MEDICINA DE MUJERES",
+      "org": "Hospital de San Carlos",
+      "orgId": "29",
+      "ueId": "54",
+      "contacto": "CATERINE NOELIA GOMEZ AGUIRRE",
+      "email": "COMPRASSS.SANCARLOS@ASSE.COM.UY",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:15:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Mobiliario y equipamiento",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365476",
+      "nueva": true
+    },
+    {
+      "id": "1365430",
+      "idCompra": "1365430",
+      "nro": "589",
+      "anio": "2026",
+      "tipo": "CE",
+      "tipoNombre": "Compra por Excepción",
+      "obj": "LOS PROCEDIMIENTOS ENDOVASCULARES SUCESIVOS cON\nENDOPROTESIS CON CUATRO RAMAS,\nEXTENSIONES\nCUBIERTOS PARA ARTERIAS VISCERALES, \nCOMPONENTE DISTAL BIFURCADO,\nILÍACAS, SEGMENTOS TORÁCICOS PROXIMALES, STENS\nA TRAVÉS DE LOS PROCEDIMIENTOS",
+      "org": "Dirección General de la Salud",
+      "orgId": "12",
+      "ueId": "103",
+      "contacto": "Silvia  Fabeiro Burla",
+      "email": "sfabeiro@msp.gub.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:15:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365430.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365456",
+      "idCompra": "1365456",
+      "nro": "3332",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "COMPRA DIRECTA MMQ PARA BLOCK - ITEM 6 DE 10,2FR, ITEM 8 DE 6X24, ITEM 9 DE 8X26, ITEM 10 RECTO DE PUNTA CÓNICA ESTÉRIL 5FR, ITEM 11 RECTO DE PUNTA CONICA ESTÉRIL 6FR, ITEM 14 22FR,",
+      "org": "Centro Departamental de Maldonado",
+      "orgId": "29",
+      "ueId": "102",
+      "contacto": "TATIANA  PEREIRA",
+      "email": "tatiana.pereira@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:15:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365456",
+      "nueva": true
+    },
+    {
+      "id": "1365480",
+      "idCompra": "1365480",
+      "nro": "941",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "MICROPIPETA GRADUADA MICROLIT 20-200 ML.- MICROPIPETA GRADUADA MICROLIT 0-50 ML.-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 47323140/3144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:20:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365480",
+      "nueva": true
+    },
+    {
+      "id": "1365506",
+      "idCompra": "1365506",
+      "nro": "942",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "TIRAS PARA MEDIR CARBONATO DE CALCIO X 5 FRASCOS.-\nANTE ALGUNA DUDA, COMUNICARSE AL TELÉFONO 47323140/3144 INTERNO 215, ECONOMATO HRS\neconomato.salto@asse.com.uy",
+      "org": "Centro Departamental de Salto",
+      "orgId": "29",
+      "ueId": "28",
+      "contacto": "Marcela  Silva",
+      "email": "marcela.silva@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:40:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365506.odt",
+      "nueva": true
+    },
+    {
+      "id": "1365508",
+      "idCompra": "1365508",
+      "nro": "2331",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "CAPILAR PARA PUNTO DE FUSION\nMEDIDAS: 0,8-1,1- MM",
+      "org": "Laboratorio Químico Industrial Francisco Dorrego",
+      "orgId": "29",
+      "ueId": "64",
+      "contacto": "GIULIANA GARCIA CARDOZO",
+      "email": "COMPRAS.DORREGO@ASSE.COM.UY",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:45:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365508.pdf",
+      "nueva": true
+    },
+    {
+      "id": "i499476",
+      "idCompra": "i499476",
+      "nro": "1379",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "ADQUISICIÓN DE SERVICIO TÉCNICO PARA LA PAGINA WEB",
+      "org": "Intendencia de Canelones",
+      "orgId": "81",
+      "ueId": "1",
+      "contacto": "DPTO . COMPRA DIRECTA",
+      "email": "compra.directa@imcanelones.gub.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:46:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pliego_i499476.zip",
+      "nueva": true
+    },
+    {
+      "id": "1365046",
+      "idCompra": "1365046",
+      "nro": "26",
+      "anio": "2026",
+      "tipo": "PE",
+      "tipoNombre": "Procedimiento Especial",
+      "obj": "ADQUISICIÓN DE MEDICAMENTOS",
+      "org": "Banco de Previsión Social",
+      "orgId": "28",
+      "ueId": "1",
+      "contacto": "COMPRAS SALUD GSAL",
+      "email": "comprassalud@bps.gub.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Salud e insumos medicos",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365046.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365298",
+      "idCompra": "1365298",
+      "nro": "2330",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "CARTUCHO PARA IMPRESORA Y TAMBOR",
+      "org": "Laboratorio Químico Industrial Francisco Dorrego",
+      "orgId": "29",
+      "ueId": "64",
+      "contacto": "GIULIANA GARCIA CARDOZO",
+      "email": "COMPRAS.DORREGO@ASSE.COM.UY",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365298.pdf",
+      "nueva": true
+    },
+    {
+      "id": "1365478",
+      "idCompra": "1365478",
+      "nro": "3333",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "COMPRA DIRECTA INSTRUMENTAL- \nITEM 3 ERINA CON 4 DIENTES Y FARABEUF,\n ITEM 4 FARABEUF MEDIANO,\n ITEM 6 PASAHILO FINO DE 19CM, \nITEM 8 PINZA AMERICANA CRILE 20CM, ITEM 9 PINZA ATRAUMATIC CURVA 05 X360(PATO), \nITEM 12 PINZA FOERTERS CON RANURAS 16CM, \nITEM 16 PORTA AGUJA DE MAYO 18,5CM,\nITEM 17 PORTA AGUJA VASCULAR LAHEY 18CM,",
+      "org": "Centro Departamental de Maldonado",
+      "orgId": "29",
+      "ueId": "102",
+      "contacto": "TATIANA PEREIRA",
+      "email": "tatiana.pereira@asse.com.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:50:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Otros",
+      "url": "https://www.comprasestatales.gub.uy/comprasenlinea/compra/detalle?nroCompra=1365478",
+      "nueva": true
+    },
+    {
+      "id": "1365517",
+      "idCompra": "1365517",
+      "nro": "283",
+      "anio": "2026",
+      "tipo": "CD",
+      "tipoNombre": "Compra Directa",
+      "obj": "MANTENIMIENTO DE CABINA DE BIOSEGURIDAD",
+      "org": "Dirección Nacional de Sanidad Policial",
+      "orgId": "4",
+      "ueId": "30",
+      "contacto": "DEPARTAMENTO DE ADQUISICIONES",
+      "email": "comprasdirectas@sanidadpolicial.gub.uy",
+      "monto": null,
+      "moneda": "UYU",
+      "fechaPub": "2026-08-20T10:55:00",
+      "fechaCierre": null,
+      "dias": null,
+      "rubro": "Limpieza y mantenimiento",
+      "url": "http://www.comprasestatales.gub.uy/Pliegos/pedido_1365517.pdf",
+      "nueva": true
     }
   ]
 }
